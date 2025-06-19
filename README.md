@@ -57,7 +57,7 @@ The dataset contains retail order details such as:
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](Capture.PNG)
+![Dashboard Screenshot](Dashboard)
 
 ---
 
