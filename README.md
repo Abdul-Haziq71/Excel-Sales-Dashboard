@@ -54,13 +54,6 @@ The dataset contains retail order details such as:
 - Slicers & Conditional Formatting
 
 ---
-
-## 📸 Dashboard Preview
-
-![Dashboard Screenshot](Dashboard)
-
----
-
 ## 📚 Insights
 
 - The **West** region had the highest sales and profit.
